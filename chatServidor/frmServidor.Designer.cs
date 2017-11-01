@@ -78,12 +78,13 @@
             // 
             // btnAtender
             // 
-            this.btnAtender.Location = new System.Drawing.Point(413, 24);
+            this.btnAtender.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
+            this.btnAtender.Location = new System.Drawing.Point(413, 15);
             this.btnAtender.Name = "btnAtender";
-            this.btnAtender.Size = new System.Drawing.Size(142, 42);
+            this.btnAtender.Size = new System.Drawing.Size(142, 51);
             this.btnAtender.TabIndex = 2;
-            this.btnAtender.Text = "button1";
-            this.btnAtender.UseVisualStyleBackColor = true;
+            this.btnAtender.Text = "Iniciar Servidor";
+            this.btnAtender.UseVisualStyleBackColor = false;
             this.btnAtender.Click += new System.EventHandler(this.btnAtender_Click);
             // 
             // txtLog
