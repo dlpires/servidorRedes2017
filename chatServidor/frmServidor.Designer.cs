@@ -79,9 +79,9 @@
             // btnAtender
             // 
             this.btnAtender.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
-            this.btnAtender.Location = new System.Drawing.Point(413, 15);
+            this.btnAtender.Location = new System.Drawing.Point(429, 3);
             this.btnAtender.Name = "btnAtender";
-            this.btnAtender.Size = new System.Drawing.Size(142, 51);
+            this.btnAtender.Size = new System.Drawing.Size(142, 84);
             this.btnAtender.TabIndex = 2;
             this.btnAtender.Text = "Iniciar Servidor";
             this.btnAtender.UseVisualStyleBackColor = false;
