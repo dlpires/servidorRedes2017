@@ -9,6 +9,19 @@ namespace chatServidor.Classes
 {
     public class ChatServidor
     {
+        //consultado por usuário
+        public static Hashtable htUsuarios = new Hashtable(30); //Lista de Hash armazenando usuários(máx. 30)
+
+        //consultado por conexões
+        public static Hashtable htConexoes = new Hashtable(30); //Lista de Hash armazenando usuários(máx. 30)
+
+        private IPAddress enderecoIP; //guarda o endereço IP inserido;
+
+        private TcpClient tcpCliente;
+
+        public static event StatusChangedEventHandler StatusChanged;
+
+
         // Envia mensagens de um usuário para todos os outros
         public static void EnviaMensagem(string Origem, string Mensagem)
         {
@@ -45,17 +58,5 @@ namespace chatServidor.Classes
                 }
             }
         }
-
-        //consultado por usuário
-        public static Hashtable htUsuarios = new Hashtable(30); //Lista de Hash armazenando usuários(máx. 30)
-
-        //consultado por conexões
-        public static Hashtable htConexoes = new Hashtable(30); //Lista de Hash armazenando usuários(máx. 30)
-
-        private IPAddress enderecoIP; //guarda o endereço IP inserido;
-
-        private TcpClient tcpCliente;
-
-        public static event StatusChangedEventHandler StatusChanged;
     }
 }
