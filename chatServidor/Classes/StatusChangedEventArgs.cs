@@ -16,5 +16,7 @@ namespace chatServidor.Classes
             this.EventMsg = EventMsg;
         }
 
+        // Este delegate é necessário para especificar
+        public delegate void StatusChangedEventHandler(object sender, StatusChangedEventArgs e);
     }
 }

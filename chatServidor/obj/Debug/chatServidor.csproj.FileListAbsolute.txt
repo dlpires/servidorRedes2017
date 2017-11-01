@@ -1,6 +1,7 @@
 C:\Users\julio\Desktop\chatServidor\chatServidor\bin\Debug\chatServidor.exe.config
 D:\Documentos\MEGAsync\UNIARARAS\6º Periodo\SIF038 - Redes de Computadores I\N2\Projeto Chat\servidorRedes2017\chatServidor\bin\Debug\chatServidor.exe.config
 C:\Users\julio\Documents\CHAT_SOCKET\servidorRedes2017\chatServidor\bin\Debug\chatServidor.exe.config
+<<<<<<< HEAD
 C:\Users\julio\Documents\CHAT_SOCKET\servidorRedes2017\chatServidor\obj\Debug\chatServidor.csprojResolveAssemblyReference.cache
 C:\Users\julio\Documents\CHAT_SOCKET\servidorRedes2017\chatServidor\obj\Debug\chatServidor.frmServidor.resources
 C:\Users\julio\Documents\CHAT_SOCKET\servidorRedes2017\chatServidor\obj\Debug\chatServidor.Properties.Resources.resources
@@ -9,3 +10,9 @@ C:\Users\julio\Documents\CHAT_SOCKET\servidorRedes2017\chatServidor\bin\Debug\ch
 C:\Users\julio\Documents\CHAT_SOCKET\servidorRedes2017\chatServidor\bin\Debug\chatServidor.pdb
 C:\Users\julio\Documents\CHAT_SOCKET\servidorRedes2017\chatServidor\obj\Debug\chatServidor.exe
 C:\Users\julio\Documents\CHAT_SOCKET\servidorRedes2017\chatServidor\obj\Debug\chatServidor.pdb
+=======
+D:\Documentos\MEGAsync\UNIARARAS\6º Periodo\SIF038 - Redes de Computadores I\N2\Projeto Chat\servidorRedes2017\chatServidor\obj\Debug\chatServidor.csprojResolveAssemblyReference.cache
+D:\Documentos\MEGAsync\UNIARARAS\6º Periodo\SIF038 - Redes de Computadores I\N2\Projeto Chat\servidorRedes2017\chatServidor\obj\Debug\chatServidor.frmServidor.resources
+D:\Documentos\MEGAsync\UNIARARAS\6º Periodo\SIF038 - Redes de Computadores I\N2\Projeto Chat\servidorRedes2017\chatServidor\obj\Debug\chatServidor.Properties.Resources.resources
+D:\Documentos\MEGAsync\UNIARARAS\6º Periodo\SIF038 - Redes de Computadores I\N2\Projeto Chat\servidorRedes2017\chatServidor\obj\Debug\chatServidor.csproj.GenerateResource.Cache
+>>>>>>> 1cf88519bd114f50588e311052ced9606a796e53
