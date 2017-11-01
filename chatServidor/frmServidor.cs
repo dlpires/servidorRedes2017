@@ -9,6 +9,7 @@ using System.Net;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static chatServidor.Classes.StatusChangedEventArgs;
 
 namespace chatServidor
 {
@@ -40,7 +41,7 @@ namespace chatServidor
                 ChatServidor mainServidor = new ChatServidor(enderecoIP);
 
                 // Vincula o tratamento de evento StatusChanged a mainServer_StatusChanged
-                ChatServidor.StatusChanged += new StatusChangedEventHandler(mainServer_StatusChanged);
+                ChatServidor.StatusChanged += new StatusChangedEventHandler(mainServidor_StatusChanged);
 
                 // Inicia o atendimento das conexões
                 mainServidor.IniciaAtendimento();

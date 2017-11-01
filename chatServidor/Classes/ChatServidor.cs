@@ -4,6 +4,10 @@ using System.Net.Sockets;
 using System.IO;
 using System.Threading;
 using System.Collections;
+<<<<<<< HEAD
+=======
+using static chatServidor.Classes.StatusChangedEventArgs;
+>>>>>>> ddc3820647afda6a9a79cb1004fbad330e2d97d4
 
 namespace chatServidor.Classes
 {
