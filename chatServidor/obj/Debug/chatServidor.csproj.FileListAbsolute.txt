@@ -1,3 +1,7 @@
 C:\Users\julio\Desktop\chatServidor\chatServidor\bin\Debug\chatServidor.exe.config
 D:\Documentos\MEGAsync\UNIARARAS\6º Periodo\SIF038 - Redes de Computadores I\N2\Projeto Chat\servidorRedes2017\chatServidor\bin\Debug\chatServidor.exe.config
 C:\Users\julio\Documents\CHAT_SOCKET\servidorRedes2017\chatServidor\bin\Debug\chatServidor.exe.config
+D:\Documentos\MEGAsync\UNIARARAS\6º Periodo\SIF038 - Redes de Computadores I\N2\Projeto Chat\servidorRedes2017\chatServidor\obj\Debug\chatServidor.csprojResolveAssemblyReference.cache
+D:\Documentos\MEGAsync\UNIARARAS\6º Periodo\SIF038 - Redes de Computadores I\N2\Projeto Chat\servidorRedes2017\chatServidor\obj\Debug\chatServidor.frmServidor.resources
+D:\Documentos\MEGAsync\UNIARARAS\6º Periodo\SIF038 - Redes de Computadores I\N2\Projeto Chat\servidorRedes2017\chatServidor\obj\Debug\chatServidor.Properties.Resources.resources
+D:\Documentos\MEGAsync\UNIARARAS\6º Periodo\SIF038 - Redes de Computadores I\N2\Projeto Chat\servidorRedes2017\chatServidor\obj\Debug\chatServidor.csproj.GenerateResource.Cache
