@@ -16,3 +16,5 @@ D:\Documentos\MEGAsync\UNIARARAS\6º Periodo\SIF038 - Redes de Computadores I\N2
 D:\Documentos\MEGAsync\UNIARARAS\6º Periodo\SIF038 - Redes de Computadores I\N2\Projeto Chat\servidorRedes2017\chatServidor\obj\Debug\chatServidor.Properties.Resources.resources
 D:\Documentos\MEGAsync\UNIARARAS\6º Periodo\SIF038 - Redes de Computadores I\N2\Projeto Chat\servidorRedes2017\chatServidor\obj\Debug\chatServidor.csproj.GenerateResource.Cache
 >>>>>>> 1cf88519bd114f50588e311052ced9606a796e53
+D:\Documentos\MEGAsync\UNIARARAS\6º Periodo\SIF038 - Redes de Computadores I\N2\Projeto Chat\servidorRedes2017\chatServidor\obj\Debug\chatServidor.exe
+D:\Documentos\MEGAsync\UNIARARAS\6º Periodo\SIF038 - Redes de Computadores I\N2\Projeto Chat\servidorRedes2017\chatServidor\obj\Debug\chatServidor.pdb
