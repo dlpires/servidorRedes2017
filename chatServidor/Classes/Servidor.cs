@@ -5,7 +5,7 @@ using System.IO;
 using System.Threading;
 using System.Collections;
 
-namespace chatServidor
+namespace chatServidor.Classes
 {
     public class Servidor
     {
