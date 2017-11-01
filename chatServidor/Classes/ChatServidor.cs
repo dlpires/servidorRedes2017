@@ -7,7 +7,7 @@ using System.Collections;
 
 namespace chatServidor.Classes
 {
-    public class Servidor
+    public class ChatServidor
     {
 
     }
